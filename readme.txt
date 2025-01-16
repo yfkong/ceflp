@@ -1,5 +1,6 @@
-How to solve an instance?
+A location problem for trade-off between facility cost, spatial accessibility and spatial equality: model, algorithm, and benchmark analysis
 
+How to solve an instance using my algorithm?
 pypy sol.py instance format MaxCost d* weight popsize mloops
 instance: instance file name
 format: instance file format (0 self-defined, 1 flp, 2 pmed, 3 tbed, 4 OR-Lib yang, 5 demand and supply)
