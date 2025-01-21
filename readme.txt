@@ -1,4 +1,4 @@
-A location problem for trade-off between facility cost, spatial accessibility and spatial equality: model, algorithm, and benchmark analysis
+A cost-efficient and equitable facility location problem: model, algorithm, and benchmark analysis
 
 How to solve an instance using my algorithm?
 pypy sol.py instance format MaxCost d* weight popsize mloops
